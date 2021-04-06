@@ -4,7 +4,10 @@
 
 ![Ultimate-Goal-Logo](Logos/RGB/jpg/UltimateGoal-RGB_horz-full-color.jpg)
 
-## 1.0 游戏手册
+## 1.0 赛季资源
+
+### 1.1 游戏手册
+
 注: 中文版游戏手册有时并不是最新版, 如果要查看比赛的最新规则, 请留意裁判长/主裁判的通知和最新的英文版游戏手册.
 
 - [中文版传统比赛游戏手册第一部分](Game%20Manual/gm_part1_traditional_zhCN-20200714.PDF) - 2020/7/14更新
@@ -15,6 +18,11 @@
 - [英文版远程比赛游戏手册第一部分](Game%20Manual/gm_part1_remote_enUS-20210203.pdf) - 2021/2/3更新
 - [英文版远程比赛游戏手册第二部分](Game%20Manual/gm_part2_remote_enUS-20210203.pdf) - 2021/2/3更新
 - [英文单页比赛介绍](Game%20Manual/game-one-page_enUS.pdf)
+
+### 1.2 其他
+
+- [英文版远程比赛计分表](ScoreSheets/remote-scoresheet_enUS.pdf)
+- [中文版传统比赛积分表(裁判用)](ScoreSheets/traditional-scoresheet_zhCN.pdf)
 
 ## 2.0 21年4-5月深圳及杭州赛区规则Q&A
 ### 2.1 公告
