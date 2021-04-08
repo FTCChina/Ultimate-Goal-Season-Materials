@@ -23,6 +23,7 @@
 
 - [英文版远程比赛计分表](ScoreSheets/remote-scoresheet_enUS.pdf)
 - [中文版传统比赛积分表(裁判用)](ScoreSheets/traditional-scoresheet_zhCN.pdf)
+- [英文版记分员操作手册](ScoreKeeper%20Manual/scorekeeper-manual_enUS_20201013.pdf) - 2020/10/13更新
 
 ## 2.0 21年4-5月深圳及杭州赛区规则Q&A
 ### 2.1 公告
