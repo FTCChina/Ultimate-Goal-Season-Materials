@@ -19,11 +19,15 @@
 - [英文版远程比赛游戏手册第二部分](Game%20Manual/gm_part2_remote_enUS-20210203.pdf) - 2021/2/3更新
 - [英文单页比赛介绍](Game%20Manual/game-one-page_enUS.pdf)
 
-### 1.2 其他
+### 1.2 其他(裁判组用)
 
 - [英文版远程比赛计分表](ScoreSheets/remote-scoresheet_enUS.pdf)
 - [中文版传统比赛积分表(裁判用)](ScoreSheets/traditional-scoresheet_zhCN.pdf)
 - [英文版记分员操作手册](ScoreKeeper%20Manual/scorekeeper-manual_enUS_20201013.pdf) - 2020/10/13更新
+- [英文版机器人检录表格](ScoreSheets/RobotInspection_enUS.pdf)
+- [中文版机器人检录表格](ScoreSheets/RobotInspection_zhCN.pdf)
+- [英文版场地检录表格](ScoreSheets/FieldInspection_enUS.pdf)
+- [中文版场地检录表格](ScoreSheets/FieldInspection_zhCN.pdf)
 
 ## 2.0 21年4-5月深圳及杭州赛区规则Q&A
 ### 2.1 公告
